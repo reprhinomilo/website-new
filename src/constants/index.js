@@ -7,6 +7,10 @@
   {
     "href": "/about",
     "label": "About"
+  },
+  {
+    "href": "/news",
+    "label": "In the News"
   }
 ];
 
